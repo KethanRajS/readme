@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kethan Raj S</h1>
-<h3 align="center">A passionate Student Learning Development from India</h3>
+<h3 align="center">A passionate Student Learning Developer from India</h3>
 
 - 🔭 I’m currently working on **Data Science ML Model Projects**
 
